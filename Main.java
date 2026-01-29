@@ -512,6 +512,9 @@ class student{
  void change(int data) {
  this.data=data+100;  //changes will be in the local variable only    
 }
+class bird extends student{
+
+}
 }
 public class Main {       
  public static void main(String args[]) {    
